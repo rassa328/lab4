@@ -1,3 +1,3 @@
 # lab4
 
-ArithmeticTable using Inheritance and encapsulation
+Arithmetictable using inheritance and encapsulation
